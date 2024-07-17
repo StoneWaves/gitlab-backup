@@ -1,0 +1,5 @@
+{
+    "token": "your_personal_access_token",
+    "directory": "/home/docker/backups",
+    "gitlab_url": "https://gitlab.com"
+}
